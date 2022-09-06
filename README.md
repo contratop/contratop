@@ -1,8 +1,8 @@
 # Bienvenido/a a mi perfil 💻
 
-## Repositorios activos
+## Top Repositorios
 - [🐉contratop/WhiteDragon][WDRepo]: Utilidades de hacking etico
-- [🥔pokeinalover/PatataTube][patatarepo]: Descarga de contenido via Shell
+- [🥔contratop/powerdownloader][powerdownloader]: Descarga de contenido via PowerShell
 - [🌸pokeinalover/pokeinalover.github.com][pokeweb]: portafolio de pokeinalover
 - [🎮contratop/SearchPC][fpgame]: Juego RPGMaker colaborativo
 
@@ -50,7 +50,7 @@ Top 3: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badg
 
 
 [WDRepo]: https://github.com/contratop/WhiteDragon
-[patatarepo]: https://github.com/pokeinalover/PatataTube
+[powerdownloader]: https://github.com/contratop/powerdownloader
 [pokeweb]: https://github.com/pokeinalover/pokeinalover.github.io
 [fpgame]: https://github.com/contratop/SearchPC
 

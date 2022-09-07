@@ -1,8 +1,10 @@
 # Bienvenido/a a mi perfil 💻
+## Trabajando en
+- [💻contratop/Far-Resolver][far-resolver]: Herramienta multiproposito
 
-## Top Repositorios
+## Otros Repositorios
 - [🐉contratop/WhiteDragon][WDRepo]: Utilidades de hacking etico
-- [🥔contratop/powerdownloader][powerdownloader]: Descarga de contenido via PowerShell
+- [📥contratop/powerdownloader][powerdownloader]: Descarga de contenido via PowerShell
 - [🌸pokeinalover/pokeinalover.github.com][pokeweb]: portafolio de pokeinalover
 - [🎮contratop/SearchPC][fpgame]: Juego RPGMaker colaborativo
 
@@ -48,7 +50,7 @@ Top 3: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badg
 
 
 
-
+[Far-Resolver]: https://github.com/contratop/Far-Resolver
 [WDRepo]: https://github.com/contratop/WhiteDragon
 [powerdownloader]: https://github.com/contratop/powerdownloader
 [pokeweb]: https://github.com/pokeinalover/pokeinalover.github.io

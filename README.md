@@ -7,6 +7,7 @@
 - [📥contratop/powerdownloader][powerdownloader]: Descarga de contenido via PowerShell
 - [🌸pokeinalover/pokeinalover.github.com][pokeweb]: portafolio de pokeinalover
 - [🎮contratop/SearchPC][fpgame]: Juego RPGMaker colaborativo
+- [🔰contratop/powershell-apis][apicollection]: Coleccion de implementacion REST APIs en PowerShell
 
 ## Lenguajes de programacion favoritos
 En los que puedo programar con facilidad
@@ -55,4 +56,5 @@ Top 3: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badg
 [powerdownloader]: https://github.com/contratop/powerdownloader
 [pokeweb]: https://github.com/pokeinalover/pokeinalover.github.io
 [fpgame]: https://github.com/contratop/SearchPC
+[apicollection]: https://github.com/contratop/powershell-apis
 

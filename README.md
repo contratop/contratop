@@ -43,7 +43,8 @@ Top 2: ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badg
 Top 3: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Contacto
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/contratopdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contratopdever@gmail.com)
+
 
 
 

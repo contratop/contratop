@@ -1,15 +1,16 @@
 # Bienvenido/a a mi perfil 💻
 ## Trabajando en
 - [💻contratop/Far-Resolver][far-resolver]: Herramienta multiproposito de administracion de sistemas
-- [🛠contratop/PowerShell-MultiTool][multitool]: Caja de utilidades en PowerShell
+- [📖contratop/PowerLibrary][powerlibrary]: "Librerias" para añadir funcionalidades a PowerShell
 
-## Otros Repositorios
+## Otros Repositorios interesantes
 - [🐉contratop/WhiteDragon][WDRepo]: Utilidades de hacking etico
 - [📥contratop/powerdownloader][powerdownloader]: Descarga de contenido via PowerShell
 - [🌸pokeinalover/pokeinalover.github.com][pokeweb]: portafolio de pokeinalover
 - [🎮contratop/SearchPC][fpgame]: Juego RPGMaker colaborativo
 - [🧠contratop/PowerShell-for-Newbies][ps4newbies]: Guia de PowerShell para principiantes
 - [🔰contratop/powershell-apis][apicollection]: Coleccion de implementacion REST APIs en PowerShell
+- [🛠contratop/PowerShell-MultiTool][multitool]: Caja de utilidades en PowerShell
 
 ## Lenguajes de programacion favoritos
 En los que puedo programar con facilidad
@@ -70,4 +71,5 @@ Puedes contactarme en:
 [apicollection]: https://github.com/contratop/powershell-apis
 [ps4newbies]: https://github.com/contratop/PowerShell-for-Newbie
 [multitool]: https://github.com/contratop/PowerShell-MultiTool
+[powerlibrary]:https://github.com/contratop/PowerLibrary
 

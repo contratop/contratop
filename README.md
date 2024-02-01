@@ -1,5 +1,12 @@
 # Bienvenido/a a mi perfil 💻
+
+<img src="https://attilakrick.com/media/PowerShell-7-Theme.png" alt="drawing" width="400"/>
+
+Trabajando actualmente con el lenguaje: PowerShell (Para DevOps)
+
+
 ## Trabajando en
+Cuando puedo dedicar algo de tiempo o si hay alguna sugerencia de que implementar
 - [💻contratop/Far-Resolver][far-resolver]: Herramienta multiproposito de administracion de sistemas
 - [📖contratop/PowerLibrary][powerlibrary]: "Librerias" para añadir funcionalidades a PowerShell
 
@@ -16,6 +23,7 @@
 En los que puedo programar con facilidad
 
 (Habra alguno que no habre puesto)
+
 ### **Orientado a Scripting**
 - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) Shell Script (Script)
 - ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) PowerShell (Script)

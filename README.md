@@ -1,6 +1,6 @@
 # Bienvenido/a a mi perfil 💻
 
-<img src="https://attilakrick.com/media/PowerShell-7-Theme.png" alt="drawing" width="400"/>
+<img src="https://contratop.github.io/images/pic01.jpg" alt="drawing" width="400"/>
 
 Trabajando actualmente con el lenguaje: PowerShell (Para DevOps)
 
@@ -80,4 +80,5 @@ Puedes contactarme en:
 [ps4newbies]: https://github.com/contratop/PowerShell-for-Newbie
 [multitool]: https://github.com/contratop/PowerShell-MultiTool
 [powerlibrary]:https://github.com/contratop/PowerLibrary
+
 

@@ -83,6 +83,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 </p>
 
+## 🎧 Banda Sonora de mis Commits 🚀
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=contratop&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=contratop&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
+</p>
+
 ## 📩 Contacto
 
 <p align="center">
